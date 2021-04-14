@@ -147,6 +147,22 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Application][FlyClient: Super-Light Clients for Cryptocurrencies](). Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani. IEEE S&P '20. 
 
+[Exchange][High-Frequency Trading on Decentralized On-Chain Exchanges]() Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais, Tyler Crain, Christopher Natoli, Vincent Gramoli. IEEE S&P '21.  
+
+[Payment][A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs] Erkan Tairi, Pedro Moreno-Sanchez, Matteo Maffei. IEEE S&P '21. 
+
+[Consensus][Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma]() Joachim Neu, Ertem Nusret Tas, David Tse. IEEE S&P '21.  
+
+[Sidechain][MAD-HTLC: Because HTLC is Crazy-Cheap to Attack]() Itay Tsabary, Matan Yechieli, Alex Manuskin, Ittay Eyal. IEEE S&P '21.  
+
+[PoS][On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols]() Varun Madathil, Alessandra Scafuro, Kartik Nayak, Markulf Kohlweiss. IEEE S&P '21. 
+
+[Defi][On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]() Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais. IEEE S&P '21. 
+
+[Smart contract][SGUARD: Smart Contracts Made Vulnerability-Free]() Long H. Pham, Jun Sun, Tai Duy Nguyen. IEEE S&P '21. 
+
+
+
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
@@ -155,6 +171,8 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 [Network][Understanding (Mis)Behavior on the EOSIO Blockchain](). Yuheng Huang, Haoyu Wang, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang, Xuanzhe Liu, Gang Huang, Xuxian Jiang. Sigmetric '20.
 
 [Incentive][Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082).Jianyu Niu, Ziyu Wang, Fangyu Gai and Chen Feng. Performance '20.
+
+[Transactions][Tracking Counterfeit Cryptocurrency End-to-end]() Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. Sigmetric '21.
 
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
@@ -440,11 +458,14 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Layer2][Flash: Efficient Dynamic Routing for Offchain Networks](http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf). Peng Wang, Hong Xu, Xin Jin, Tao Wang.  CoNEXT '19
 
 ## PLDI
-[Smart Contract] [Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
+[Smart Contract][Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
-[Smart Contract] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](). Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
+[Smart Contract][Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](). Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
 
-[Smart Contract] [Securing Smart Contract with Runtime Validation](). Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
+[Smart Contract][Securing Smart Contract with Runtime Validation](). Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
+
+[Smart Contract][Practical Smart Contract Sharding with Ownership and Commutativity Analysis]() George Pîrlea, Amrit Kumar, Ilya Sergey. PLDI '2021
+
 
 ## FC
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
